@@ -1,14 +1,12 @@
 export const MEMBERS = [
-    { images: "/images/members/IMG-20250414-WA0061.jpg" },
-    { images: "/images/members/IMG-20250414-WA0062.jpg" },
-    { images: "/images/members/IMG-20250414-WA0063.jpg" },
-    { images: "/images/members/IMG-20250414-WA0064.jpg" },
-    { images: "/images/members/IMG-20250414-WA0065.jpg" },
-    { images: "/images/members/IMG-20250414-WA0066.jpg" },
-    { images: "/images/members/IMG-20250414-WA0067.jpg" },
-    { images: "/images/members/IMG-20250414-WA0068.jpg" },
-    { images: "/images/members/IMG-20250414-WA0069.jpg" },
-    { images: "/images/members/IMG-20250414-WA0070.jpg" },
-    { images: "/images/members/IMG-20250414-WA0071.jpg" },
-    { images: "/images/members/IMG-20250414-WA0072.jpg" }
+    { images: "/images/members/2024_20240629_145752_0000.png" },
+    { images: "/images/members/2024_20240629_145333_0000.png" },
+    { images: "/images/members/2024_20240629_142059_0000.png" },
+    { images: "/images/members/2024_20240629_145006_0000.png" },
+    { images: "/images/members/2024_20240629_144537_0000.png" },
+    { images: "/images/members/2024_20240629_144254_0000.png" },
+    { images: "/images/members/2024_20240629_143809_0000.png" },
+    { images: "/images/members/2024_20240629_143444_0000.png" },
+    { images: "/images/members/2024_20240629_143048_0000.png" },
+    { images: "/images/members/2024_20240629_142644_0000.png" }
 ];
